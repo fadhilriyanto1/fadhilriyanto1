@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @fadhilriyanto1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```
+AKUN INI HANYALAH AKUN CLONE AGAR GITHUB ASLI AKU AMAN
 
-<!---
-fadhilriyanto1/fadhilriyanto1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+KARNA AKU NDAK PERCAYA GITHUB BOT, IA MINTA AKSES KE PRIVATE REPO
+```
